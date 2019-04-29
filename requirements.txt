@@ -1,6 +1,6 @@
 xmltodict>=0.12
 requests>=2.21
-py_dataset>=0.0.58
+py_dataset>=0.0.59
 ames>=0.2.3
 plotnine
 pandas
