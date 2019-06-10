@@ -6,3 +6,4 @@ caltechdata_api>=0.1.2
 plotnine
 pandas
 numpy
+scipy==1.2.2
