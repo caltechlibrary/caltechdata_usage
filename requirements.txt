@@ -1,5 +1,5 @@
 requests>=2.21
-ames>=0.4.0
+ames>=0.7.1
 progressbar2
 plotnine
 pandas
