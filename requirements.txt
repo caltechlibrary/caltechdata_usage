@@ -4,5 +4,6 @@ progressbar2
 plotnine
 pandas
 numpy
+wordcloud
 scipy==1.2.2
 datacite @ git+https://github.com/caltechlibrary/datacite.git@rest-api#egg=datacite
