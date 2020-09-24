@@ -1,7 +1,8 @@
 requests>=2.21
-ames>=0.7.1
+ames>=0.7.0
 progressbar2
 plotnine
 pandas
 numpy
 scipy==1.2.2
+datacite @ git+https://github.com/caltechlibrary/datacite.git@rest-api#egg=datacite
